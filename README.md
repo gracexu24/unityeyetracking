@@ -27,19 +27,19 @@ https://www.youtube.com/watch?v=IqZtadtnSeI
 
 ---
 
+## Project Details and Modifications
+
+- Imported prefabs from tutorial, however I had to remake and reattach materials to the keypad and cube.
+- Logger would cuase crashes in the code so I instead used Debug.Log in the code to display necessary info in the Magic Leap Hub Logs
+
+---
+
 ## Android Manifest Permission
 
 Ensure your manifest contains:
 
 ```xml
 <uses-permission android:name="com.magicleap.permission.EYE_TRACKING" />
-
----
-
-## Project Details and Modifications
-
-- Imported prefabs from tutorial, however I had to remake and reattach materials to the keypad and cube.
-- Logger would cuase crashes in the code so I instead used Debug.Log in the code to display necessary info in the Magic Leap Hub Logs
 
 ---
 
