@@ -41,4 +41,7 @@ Ensure your manifest contains:
 - Imported prefabs from tutorial, however I had to remake and reattach materials to the keypad and cube.
 - Logger would cuase crashes in the code so I instead used Debug.Log in the code to display necessary info in the Magic Leap Hub Logs
 
+---
+
+
 
